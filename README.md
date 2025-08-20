@@ -1,1 +1,3 @@
-# shop-hub-platform-9001
+# Project Repository
+
+This is the initial README file for the project.
